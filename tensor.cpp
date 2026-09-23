@@ -107,7 +107,7 @@ int main(){
   std::size_t actual_numel_1 = t.numel();
   assert(actual_numel_1 == 6);
 
- /*std::cout << "Test 5\n";
+  std::cout << "Test 5\n";
   bool test_5_threw = false;
   try {
     Tensor({}, {});
@@ -126,7 +126,7 @@ int main(){
     test_6_threw = true;
   }
   assert(test_6_threw);
-*/
+
   std::cout << "Test 7\n";
   bool test_7_threw = false;
   try {
