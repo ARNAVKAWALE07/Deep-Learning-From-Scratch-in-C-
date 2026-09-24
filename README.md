@@ -1,9 +1,10 @@
-<img width="1408" height="768" alt="image_e2c7869d" src="C:\Users\arnav\Downloads\image_332642ee.jpg" />
+<img width="1408" height="768" alt="image_332642ee" src="https://github.com/user-attachments/assets/823d5ab3-0318-4db1-9a64-6e166b4bfefc" />
 
-uild the foundations of deep learning from first principles in modern C++.
-Why build this
+
+<Title>Build the foundations of deep learning from first principles in modern C++</Title>.
+
+<h1>Why build this</h1>
 Deep learning frameworks make sophisticated systems easy to assemble, but their abstractions can hide the machinery underneath. We rebuild these systems one piece at a time:
-
 tensor shape, storage, and indexing;
 elementwise operations, reductions, and broadcasting;
 matrix multiplication and loss functions;
