@@ -15,4 +15,4 @@ Deep learning frameworks make sophisticated systems easy to assemble, but their 
 This is an educational implementation, not a production framework or an attempt to replace PyTorch. The goal is to understand the mathematics, data structures, ownership decisions, and hardware behavior inside mature deep learning frameworks.
 </ul>
 
-<h3>Building a rudimentory tensor</h3> [`7d3cf01395e214989ded7d23462f9422f395d442`](https://github.com/ARNAVKAWALE07/Deep-Learning-From-Scratch-in-C-/commit/7d3cf01395e214989ded7d23462f9422f395d442)
+<h3>Building a rudimentory tensor</h3> <!-- COMMIT_SHA_START --> 7d3cf01395e214989ded7d23462f9422f395d442<!-- COMMIT_SHA_END -->
