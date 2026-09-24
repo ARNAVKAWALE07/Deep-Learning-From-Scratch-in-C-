@@ -14,3 +14,5 @@ Deep learning frameworks make sophisticated systems easy to assemble, but their 
 <li>CPU performance, GPU programming, and CUDA kernels.</li>
 This is an educational implementation, not a production framework or an attempt to replace PyTorch. The goal is to understand the mathematics, data structures, ownership decisions, and hardware behavior inside mature deep learning frameworks.
 </ul>
+
+<h3>Building a rudimentory tensor</h3> 7d3cf01395e214989ded7d23462f9422f395d442
