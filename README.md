@@ -17,5 +17,8 @@ This is an educational implementation, not a production framework or an attempt 
 
 <h2>Chapter 1</h2>
 <h3>Building a rudimentory tensor in C++</h3>
-The series begins with a small Tensor class in one C++23 file. We store values in a flat, row-major std::vector<double> while shape metadata describes the tensor's dimensions. The implementation establishes rank, element count, constructor invariants, and checked multidimensional indexing. It also shows how strides map tensor coordinates to flat storage without relying on a machine learning library.
+The series begins with a small <b>Tensor</b> class in one C++23 file. We store values in a flat, row-major <b>std::vector<double></b> while shape metadata describes the tensor's dimensions. The implementation establishes rank, element count, constructor invariants, and checked multidimensional indexing. It also shows how strides map tensor coordinates to flat storage without relying on a machine learning library.
 <a href ="https://github.com/ARNAVKAWALE07/Deep-Learning-From-Scratch-in-C-/commit/7d3cf01395e214989ded7d23462f9422f395d442"><code>Code Checkpoint</code></a>
+<h3> Added tensor scalaer, mutation and reduction </h3>
+  The tensor model expands to cover rank-zero scalars, singleton vectors, and empty tensors. We make shape multiplication safe from integer overflow, add const and mutable element access, and preserve the relationship between shape and storage. The first tensor reduction, <b>sum()</b>, turns any tensor into a scalar and defines the sum of an empty tensor as zero.
+<a href ="https://github.com/ARNAVKAWALE07/Deep-Learning-From-Scratch-in-C-/commit/d054b5b353761b39850b28c1ddd1342aaead6c99"><code>Code Checkpoint</code></a>
