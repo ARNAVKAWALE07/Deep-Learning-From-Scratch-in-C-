@@ -1,4 +1,4 @@
-<head>Build the foundations of deep learning from first principles in modern C++.</head>
+  <title>Build the foundations of deep learning from first principles in modern C++.</title>
   
   <img width="1408" height="768" alt="image_332642ee" src="https://github.com/user-attachments/assets/823d5ab3-0318-4db1-9a64-6e166b4bfefc" />
 
