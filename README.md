@@ -15,7 +15,7 @@ Deep learning frameworks make sophisticated systems easy to assemble, but their 
 This is an educational implementation, not a production framework or an attempt to replace PyTorch. The goal is to understand the mathematics, data structures, ownership decisions, and hardware behavior inside mature deep learning frameworks.
 </ul>
 
-<h1>Chapter 1</h1>
+<h2>Chapter 1</h2>
 <h3>Building a rudimentory tensor in C++</h3>
 The series begins with a small Tensor class in one C++23 file. We store values in a flat, row-major std::vector<double> while shape metadata describes the tensor's dimensions. The implementation establishes rank, element count, constructor invariants, and checked multidimensional indexing. It also shows how strides map tensor coordinates to flat storage without relying on a machine learning library.
 <a href ="https://github.com/ARNAVKAWALE07/Deep-Learning-From-Scratch-in-C-/commit/7d3cf01395e214989ded7d23462f9422f395d442"><code>Code Checkpoint</code></a>
